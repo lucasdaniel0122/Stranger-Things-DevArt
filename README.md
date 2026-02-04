@@ -38,5 +38,3 @@ O objetivo principal do projeto é explorar animações avançadas com **GSAP**,
 - 🎨 Identidade visual inspirada em Stranger Things
 
 ---
-
-## 🧩 Estrutura do Projeto
