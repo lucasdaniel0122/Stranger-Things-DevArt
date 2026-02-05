@@ -99,8 +99,12 @@ const tl = gsap.timeline({
         animacaoPagina()
         gsap.to("#preloader", {
             opacity: 0,
-            display: "none"
-        })
+            duration: 0.4,
+            pointerEvents: "none",
+            onComplete: () => {
+                document.getElementById("preloader").classList.add("hidden");
+            }
+        });
     }
 });
 
@@ -113,4 +117,5 @@ tl.to("#preloader path", {
     fill: "rgba(168, 19, 19)",
     duration: 1,
     strokeDashoffset: 0
+
 });
