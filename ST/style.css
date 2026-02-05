@@ -66,6 +66,11 @@ button {
     justify-content: center;
     align-items: center;
     position: fixed;
+    z-index: 9999;
+    inset: 0;
+    opacity: 1;
+    visibility: visible;
+    pointer-events: all;
 
     svg {
         width: 40vw;
