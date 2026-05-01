@@ -4,7 +4,7 @@ Projeto de landing page interativa inspirado no universo da série **Stranger Th
 
 O objetivo principal do projeto é explorar animações avançadas com **GSAP**, **ScrollTrigger** e **ScrollSmoother**, mantendo uma estrutura de código organizada, performática e escalável.
 
-A página foi prontamente criada e desenvolvida do zero no evento DevArt: Projetos de Alto valor do Desenvolvedor Gustavo Campelo, ao qual tem todos os direitos reservados.
+A página foi prontamente criada e desenvolvida do zero no evento DevArt: Projetos de Alto Valor do Desenvolvedor Gustavo Campelo, ao qual tem todos os direitos reservados.
 
 ---
 
